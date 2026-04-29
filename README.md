@@ -17,6 +17,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,figma" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -32,11 +37,11 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/usernamekamu">Instagram</a> •
+  <a href="https://www.instagram.com/wildan.ramadani/">Instagram</a> •
   <a href="https://github.com/wildanramdani14">GitHub</a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
-> Ngoding sambil ngopi = lebih fokus ☕🔥
+> Belajar pelan tapi pasti, fokus berkembang setiap hari 🚀
