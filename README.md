@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 <p align="center">
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" />
@@ -21,10 +21,10 @@
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
   <a href="https://www.canva.com/">
-    <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="48"/>
   </a>
   <a href="https://colab.research.google.com/">
-    <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48"/>
   </a>
 </p>
 
