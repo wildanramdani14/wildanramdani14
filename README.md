@@ -12,16 +12,24 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,figma" />
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <a href="https://www.canva.com/">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  </a>
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
