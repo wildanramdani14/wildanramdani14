@@ -12,7 +12,7 @@
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 <p align="center">
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" />
@@ -20,17 +20,13 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.canva.com/">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" />
   </a>
   <a href="https://colab.research.google.com/">
-    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" />
   </a>
 </p>
----
 
 ## 📊 GitHub Stats
 <p align="center">
