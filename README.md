@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Wildan Ramdani</h1>
 
-<!--
-**wildanramdani14/wildanramdani14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Informatics Student at UIN SSC</b><br>
+  💻 Web Developer • 🤖 AI Enthusiast • 🎨 Canva Designer<br>
+  📍 Subang, Indonesia
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+Web+Development;Exploring+Artificial+Intelligence;Building+Cool+Projects🔥" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wildanramdani14&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanramdani14&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/usernamekamu">Instagram</a> •
+  <a href="https://github.com/wildanramdani14">GitHub</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> Ngoding sambil ngopi = lebih fokus ☕🔥
