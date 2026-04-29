@@ -14,19 +14,15 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://www.canva.com/">
-    <img src="https://img.icons8.com/color/96/canva.png" width="48"/>
-  </a>
-  <a href="https://colab.research.google.com/">
-    <img src="https://img.icons8.com/color/96/google-colab.png" width="48"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,figma" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -48,4 +44,4 @@
 ---
 
 ## ⚡ Fun Fact
-> Belajar pelan tapi pasti, fokus berkembang setiap hari 🚀
+> Ngoding sambil ngopi = lebih fokus ☕🔥
