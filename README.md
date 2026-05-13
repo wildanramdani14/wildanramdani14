@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+Web+Development;Exploring+Artificial+Intelligence;Building+Cool+Projects🔥" />
 </p>
 
----
+
 
 ## 🚀 Tech Stack
 <p align="center">
@@ -46,7 +46,7 @@
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -57,7 +57,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildanramdani14&theme=tokyonight" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -65,8 +64,7 @@
   <a href="https://github.com/wildanramdani14">GitHub</a>
 </p>
 
---- 
-## ⚡ Motivasi 
+ 
 <p align="center">
   <i>"Sedang berproses menjadi versi terbaik diri sendiri 🚀"</i>
 </p>
