@@ -1,68 +1,64 @@
 <h1 align="center">👋 Hi, I'm Wildan Ramdani</h1>
 
 <p align="center">
-  <b>Informatics Student at UIN SSC</b><br>
-  💻 Web Developer • 🤖 AI Enthusiast • 🎨 Canva Designer<br>
+  <b>💻 Informatics Student | 🚀 Web Developer | 🤖 AI Enthusiast</b>
+</p>
+
+<p align="center">
   📍 Subang, Indonesia
 </p>
 
+---
+
+## 🚀 About Me
+
+- 🎓 Informatics Student at **UIN SSC**
+- 🌱 Currently learning **Web Development & Artificial Intelligence**
+- 💡 Interested in **Frontend Development & UI/UX Design**
+- 🎨 Creative Designer using **Canva & Figma**
+- ☕ Ngoding sambil ngopi = lebih fokus 🔥
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+Web+Development;Exploring+Artificial+Intelligence;Building+Cool+Projects🔥" />
-</p>
-
-
-
-## 🚀 Tech Stack
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,figma" />
 </p>
 
 <p align="center">
-  <a href="https://www.canva.com/">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  </a>
-  <a href="https://colab.research.google.com/">
-    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
-
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wildanramdani14&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wildanramdani14&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanramdani14&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-
+---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.instagram.com/wildan.ramadani/">Instagram</a> •
-  <a href="https://github.com/wildanramdani14">GitHub</a>
+  <a href="https://github.com/wildanramdani14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/wildan.ramadani/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
- 
+---
+
+## ✨ Quote
+
 <p align="center">
   <i>"Berjalan sejauh mungkin, jangan kenal lelah ataupun putus asa, karena sukses adalah kenyataan bagi mereka yang terus berjuang."</i> 🚀
 </p>
