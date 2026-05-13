@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+Web+Development+🔥;Exploring+Artificial+Intelligence+🤖;Building+Cool+Projects+🚀;Usaha+Belajar+Doa+Ikhtiar+💡"/>
 </p>
 
-
+---
 
 ## 🚀 About Me
 
@@ -30,7 +30,7 @@
 - 🎨 Creative Designer using **Canva & Figma**
 - ⚡ Selalu belajar dan terus berkembang.
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -39,11 +39,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+  <a href="https://www.canva.com/">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  </a>
+
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  </a>
+
 </p>
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -57,13 +64,13 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=wildanramdani14&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
 
-
+---
 
 ## 🧠 Currently Learning
 
 <p align="center">
 
-  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">
+  <a href="https://openai.com/">
     <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
   </a>
 
@@ -71,17 +78,18 @@
     <img src="https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 
-  <a href="https://www.figma.com/ui-design-tool/">
+  <a href="https://www.figma.com/">
     <img src="https://img.shields.io/badge/UI%2FUX_Design-E91E63?style=for-the-badge&logo=figma&logoColor=white"/>
   </a>
 
 </p>
 
-
+---
 
 ## 🌐 Connect With Me
 
 <p align="center">
+
   <a href="https://github.com/wildanramdani14">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -89,11 +97,12 @@
   <a href="https://www.instagram.com/wildan.ramadani/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
 </p>
 
-
+---
 
 <!-- Quote + Footer Combined -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=footer&text=%20Never%20Stop%20Learning%20&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Terus%20berjuang%20dan%20jangan%20menyerah%20&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=footer&text=Never%20Stop%20Learning&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Terus%20berjuang%20dan%20jangan%20menyerah%20🚀&descAlignY=60&descSize=18"/>
 </p>
