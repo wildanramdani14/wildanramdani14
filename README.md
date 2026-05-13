@@ -62,9 +62,19 @@
 ## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-E91E63?style=for-the-badge&logo=figma&logoColor=white"/>
+
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">
+    <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development">
+    <img src="https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <a href="https://www.figma.com/ui-design-tool/">
+    <img src="https://img.shields.io/badge/UI%2FUX_Design-E91E63?style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>
+
 </p>
 
 
