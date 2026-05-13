@@ -93,13 +93,7 @@
 
 
 
-## ✨ Quote
-
+<!-- Quote + Footer Combined -->
 <p align="center">
-  <i>"Berjalan sejauh mungkin, jangan kenal lelah ataupun putus asa, karena sukses adalah kenyataan bagi mereka yang terus berjuang."</i> 🚀
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=footer&text=✨%20Never%20Stop%20Learning%20✨&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Berjalan%20sejauh%20mungkin,%20jangan%20kenal%20lelah%20ataupun%20putus%20asa,%20karena%20sukses%20adalah%20kenyataan%20bagi%20mereka%20yang%20terus%20berjuang.&descAlignY=60&descSize=15"/>
 </p>
