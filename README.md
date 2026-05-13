@@ -49,7 +49,7 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=wildanramdani14&show_icons=true&theme=tokyonight" />
 </p>
 
@@ -66,5 +66,5 @@
 
  
 <p align="center">
-  <i>"Sedang berproses menjadi versi terbaik diri sendiri 🚀"</i>
+  <i>"Usaha tidak pernah mengkhianati hasil, hanya waktu yang belum menjawab."</i>
 </p>
