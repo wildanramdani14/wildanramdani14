@@ -93,5 +93,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
 </p>
-
-upgarde lagi lebih rame gambar nyaa atau tema atau layar belakangnya
