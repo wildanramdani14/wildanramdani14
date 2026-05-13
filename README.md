@@ -49,7 +49,6 @@
 
 
 ## 📊 GitHub Stats
-
   <img src="https://github-readme-stats.vercel.app/api?username=wildanramdani14&show_icons=true&theme=tokyonight" />
 </p>
 
@@ -66,5 +65,5 @@
 
  
 <p align="center">
-  <i>"Usaha tidak pernah mengkhianati hasil, hanya waktu yang belum menjawab."</i>
+  <i>"Berjalan sejauh mungkin, jangan kenal lelah ataupun putus asa, karena sukses adalah kenyataan bagi mereka yang terus berjuang."</i> 🚀
 </p>
