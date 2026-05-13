@@ -95,5 +95,5 @@
 
 <!-- Quote + Footer Combined -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=footer&text=✨%20Never%20Stop%20Learning%20&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Terus%20berjuang%20dan%20jangan%20menyerah%20🚀&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=footer&text=%20Never%20Stop%20Learning%20&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Terus%20berjuang%20dan%20jangan%20menyerah%20&descAlignY=60&descSize=18"/>
 </p>
