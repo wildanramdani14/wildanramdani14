@@ -15,7 +15,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+Web+Development+🔥;Exploring+Artificial+Intelligence+🤖;Building+Cool+Projects+🚀;Never+Stop+Learning+💡"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+Web+Development+🔥;Exploring+Artificial+Intelligence+🤖;Building+Cool+Projects+🚀;Terus belajar untuk menjadi lebih baik setiap hari."/>
 </p>
 
 
