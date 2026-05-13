@@ -65,6 +65,8 @@
   <a href="https://github.com/wildanramdani14">GitHub</a>
 </p>
 
+--- 
+## ⚡ Motivasi 
 <p align="center">
-  <i>"Orang hebat bukan yang tidak pernah gagal, tapi yang tidak pernah berhenti mencoba."</i>
+  <i>"Sedang berproses menjadi versi terbaik diri sendiri 🚀"</i>
 </p>
