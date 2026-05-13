@@ -65,7 +65,6 @@
   <a href="https://github.com/wildanramdani14">GitHub</a>
 </p>
 
----
-
-## ⚡ Fun Fact
-> Ngoding sambil ngopi = lebih fokus ☕🔥
+<p align="center">
+  <i>"Orang hebat bukan yang tidak pernah gagal, tapi yang tidak pernah berhenti mencoba."</i>
+</p>
