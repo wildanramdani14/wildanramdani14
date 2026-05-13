@@ -36,9 +36,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wildanramdani14&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanramdani14&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wildanramdani14&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanramdani14&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wildanramdani14&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -61,4 +65,8 @@
 
 <p align="center">
   <i>"Berjalan sejauh mungkin, jangan kenal lelah ataupun putus asa, karena sukses adalah kenyataan bagi mereka yang terus berjuang."</i> 🚀
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
 </p>
