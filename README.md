@@ -61,11 +61,20 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=wildanramdani14&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=wildanramdani14&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=wildanramdani14&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wildanramdani14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
-
 ## 🧠 Currently Learning
 
 <p align="center">
